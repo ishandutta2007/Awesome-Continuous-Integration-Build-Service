@@ -30,8 +30,8 @@ Welcome to the ultimate curated directory of **continuous integration platforms*
 
 **Key Market Context:**
 - **GitHub Actions** dominates CI with **20,000+ marketplace actions** and **free minutes for public repos**.
-- **Jenkins** remains the **most widely deployed open-source CI server** with **25K+ GitHub stars** and **1,800+ plugins**.
-- **Woodpecker CI** is the **community fork of Drone CI** after Harness restricted Drone's open-source license, with **5K+ GitHub stars** and **Docker-native pipelines**.
+- **Jenkins** remains the **most widely deployed open-source CI server** with **25K+ GitHub_Stars** and **1,800+ plugins**.
+- **Woodpecker CI** is the **community fork of Drone CI** after Harness restricted Drone's open-source license, with **5K+ GitHub_Stars** and **Docker-native pipelines**.
 
 ---
 
@@ -69,40 +69,40 @@ The continuous integration market spans **integrated CI/CD platforms** (GitHub A
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Act](https://github.com/nektos/act)** [![Stars](https://img.shields.io/github/stars/nektos/act?style=social&color=white)](https://github.com/nektos/act/stargazers) 🎬  
-  **Run your GitHub Actions locally**, MIT licensed. **57,500 GitHub stars** — **the most starred local runner engine** . **Fast local feedback loop** — test workflows locally without pushing commits . **Uses Docker containers** matching GitHub Actions runner environments .
+  **Run your GitHub Actions locally**, MIT licensed. **57,500 GitHub_Stars** — **the most starred local runner engine** . **Fast local feedback loop** — test workflows locally without pushing commits . **Uses Docker containers** matching GitHub Actions runner environments .
 
 - **[Jenkins](https://github.com/jenkinsci/jenkins)** [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social&color=white)](https://github.com/jenkinsci/jenkins/stargazers) 🏛️  
-  **The most widely adopted automation server**, MIT licensed. **25,184 GitHub stars** — **the original CI/CD platform** . **1,800+ plugins** for build, deploy, and automate . **Pipeline-as-code** with declarative and scripted syntax . **Self-hosted, extensible, and battle-tested** for over 15 years . **The foundation of modern CI/CD** — used by millions of developers worldwide .
+  **The most widely adopted automation server**, MIT licensed. **25,184 GitHub_Stars** — **the original CI/CD platform** . **1,800+ plugins** for build, deploy, and automate . **Pipeline-as-code** with declarative and scripted syntax . **Self-hosted, extensible, and battle-tested** for over 15 years . **The foundation of modern CI/CD** — used by millions of developers worldwide .
 
 - **[Argo Workflows](https://github.com/argoproj/argo-workflows)** [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers) 🎯  
-  **Container-native workflow engine for Kubernetes**, Apache-2.0 licensed. **14,500 GitHub stars** . **CNCF Graduated project** . **DAG and step-based workflows** . **The standard for Kubernetes-native CI pipelines and data processing** .
+  **Container-native workflow engine for Kubernetes**, Apache-2.0 licensed. **14,500 GitHub_Stars** . **CNCF Graduated project** . **DAG and step-based workflows** . **The standard for Kubernetes-native CI pipelines and data processing** .
 
 - **[Dagger](https://github.com/dagger/dagger)** [![Stars](https://img.shields.io/github/stars/dagger/dagger?style=social&color=white)](https://github.com/dagger/dagger/stargazers) 🗡️  
-  **Programmable CI/CD engine with container-native pipelines**, Apache-2.0 licensed. **13,775 GitHub stars** . **Write pipelines in Go, Python, TypeScript, or any language** . **Runs everywhere** — locally, in CI, or in Kubernetes . **Composable workflows for AI agents and CI/CD** .
+  **Programmable CI/CD engine with container-native pipelines**, Apache-2.0 licensed. **13,775 GitHub_Stars** . **Write pipelines in Go, Python, TypeScript, or any language** . **Runs everywhere** — locally, in CI, or in Kubernetes . **Composable workflows for AI agents and CI/CD** .
 
 - **[Concourse](https://github.com/concourse/concourse)** [![Stars](https://img.shields.io/github/stars/concourse/concourse?style=social&color=white)](https://github.com/concourse/concourse/stargazers) 🏭  
-  **Container-based automation system**, Apache-2.0 licensed. **7,800 GitHub stars** . **Written in Go** . **Opinionated about idempotency, immutability, and declarative config** . **Built for reproducible builds and stateless workers** . **Active development toward v10** with multi-branch workflow improvements .
+  **Container-based automation system**, Apache-2.0 licensed. **7,800 GitHub_Stars** . **Written in Go** . **Opinionated about idempotency, immutability, and declarative config** . **Built for reproducible builds and stateless workers** . **Active development toward v10** with multi-branch workflow improvements .
 
 - **[GoCD](https://github.com/gocd/gocd)** [![Stars](https://img.shields.io/github/stars/gocd/gocd?style=social&color=white)](https://github.com/gocd/gocd/stargazers) 🗺️  
-  **Continuous delivery server by ThoughtWorks**, Apache-2.0 licensed. **7,114 GitHub stars** . **Value stream mapping, parallel execution, and dependency management** . **Designed for complex delivery pipelines** with visual feedback . **Pipeline-as-code support** .
+  **Continuous delivery server by ThoughtWorks**, Apache-2.0 licensed. **7,114 GitHub_Stars** . **Value stream mapping, parallel execution, and dependency management** . **Designed for complex delivery pipelines** with visual feedback . **Pipeline-as-code support** .
 
 - **[Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)** [![Stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?style=social&color=white)](https://github.com/woodpecker-ci/woodpecker/stargazers) 🪶  
-  **Community fork of Drone CI**, Apache-2.0 licensed. **5,200 GitHub stars** . **The simplest Docker-native CI** — **pipelines are defined in `.woodpecker.yml`** . **Runs on Docker, Kubernetes, or directly on the host** . **Lightweight and fast** — **no database required for SQLite mode** . **The most accessible open-source CI for small teams** .
+  **Community fork of Drone CI**, Apache-2.0 licensed. **5,200 GitHub_Stars** . **The simplest Docker-native CI** — **pipelines are defined in `.woodpecker.yml`** . **Runs on Docker, Kubernetes, or directly on the host** . **Lightweight and fast** — **no database required for SQLite mode** . **The most accessible open-source CI for small teams** .
 
 - **[Buildbot](https://github.com/buildbot/buildbot)** [![Stars](https://img.shields.io/github/stars/buildbot/buildbot?style=social&color=white)](https://github.com/buildbot/buildbot/stargazers) 🤖  
-  **Python-based continuous integration framework**, GPL-2.0 licensed. **5,200 GitHub stars** . **Highly customizable automation framework** . **Supports complex multi-platform build matrices** .
+  **Python-based continuous integration framework**, GPL-2.0 licensed. **5,200 GitHub_Stars** . **Highly customizable automation framework** . **Supports complex multi-platform build matrices** .
 
 - **[Drone CI](https://github.com/drone/drone)** [![Stars](https://img.shields.io/github/stars/drone/drone?style=social&color=white)](https://github.com/drone/drone/stargazers) 🐝  
-  **Container-native CI/CD platform**, Apache-2.0 licensed (core). **5,100 GitHub stars** . **The original Docker-native CI** — **pipelines as code** in `.drone.yml` . **Runs on Docker, Kubernetes, or SSH** . **Harness acquired Drone** and restricted the open-source license, leading to the **Woodpecker CI fork** . **Still widely used but development has slowed** .
+  **Container-native CI/CD platform**, Apache-2.0 licensed (core). **5,100 GitHub_Stars** . **The original Docker-native CI** — **pipelines as code** in `.drone.yml` . **Runs on Docker, Kubernetes, or SSH** . **Harness acquired Drone** and restricted the open-source license, leading to the **Woodpecker CI fork** . **Still widely used but development has slowed** .
 
 - **[Jenkins X](https://github.com/jenkins-x/jx)** [![Stars](https://img.shields.io/github/stars/jenkins-x/jx?style=social&color=white)](https://github.com/jenkins-x/jx/stargazers) ☁️  
-  **Cloud-native CI/CD for Kubernetes**, Apache-2.0 licensed. **4,691 GitHub stars** . **Automated CI+CD with Preview Environments** on pull requests . **Built on Tekton and Prow** . **GitOps-first approach** with automated promotion across environments .
+  **Cloud-native CI/CD for Kubernetes**, Apache-2.0 licensed. **4,691 GitHub_Stars** . **Automated CI+CD with Preview Environments** on pull requests . **Built on Tekton and Prow** . **GitOps-first approach** with automated promotion across environments .
 
 - **[Tekton](https://github.com/tektoncd/pipeline)** [![Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social&color=white)](https://github.com/tektoncd/pipeline/stargazers) 🔧  
-  **Kubernetes-native CI/CD framework**, Apache-2.0 licensed. **4,200 GitHub stars** . **CNCF Incubating project** . **Build, test, and deploy across cloud providers and on-premises systems** . **Standardized building blocks for pipeline automation** . **Dashboard, CLI, and Pipelines-as-Code** available .
+  **Kubernetes-native CI/CD framework**, Apache-2.0 licensed. **4,200 GitHub_Stars** . **CNCF Incubating project** . **Build, test, and deploy across cloud providers and on-premises systems** . **Standardized building blocks for pipeline automation** . **Dashboard, CLI, and Pipelines-as-Code** available .
 
 ---
 
@@ -112,7 +112,7 @@ Contributions are welcome! Follow these steps to submit new CI platforms or open
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -136,7 +136,7 @@ If you find this continuous integration repository useful, please consider suppo
 ## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-- **GitHub Actions and GitLab CI/CD are free for public repos** with **monthly minute limits for private** . **Jenkins is the most widely deployed open-source CI** with **25K+ GitHub stars** and **1,800+ plugins** .
+- **GitHub Actions and GitLab CI/CD are free for public repos** with **monthly minute limits for private** . **Jenkins is the most widely deployed open-source CI** with **25K+ GitHub_Stars** and **1,800+ plugins** .
 - **Woodpecker CI is the community fork of Drone CI** after Harness restricted Drone's open-source license . **Drone CI is still widely used but development has slowed** .
 - **Open-source CI tools are not turnkey** — they require **infrastructure, configuration, and ongoing maintenance** . **Jenkins requires plugin management and security hardening** . **Woodpecker requires Docker deployment** . **Always validate build pipelines with a proof-of-concept** before production deployment . 🔨
 
